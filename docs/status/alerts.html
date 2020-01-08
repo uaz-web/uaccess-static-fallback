@@ -1,0 +1,78 @@
+
+<style>
+<!--
+
+h3 {
+  margin: 0;
+}
+
+ul.feedlist {
+  margin: 0;
+  margin-bottom: 15px;
+  padding: 0;
+}
+
+.feedlist li {
+  list-style: none;
+  display: block;
+  margin: 0 0 3px 0;
+}
+
+#alertlist li {
+  margin-bottom: 15px;
+  line-height: 1.4em;
+}
+
+#statuslist li {
+  padding: 3px 3px 3px 25px;
+  /* border: 1px solid #999; */
+  background-repeat: no-repeat;
+  background-position: 5px center;
+
+}
+
+.optimal {
+  /* background-color: #C0FFCB; */
+  background-image: url('/images/dot-green.png');
+  background-size: 10px 10px;
+}
+
+.degraded,
+.intermittent-service-interruption {
+  /* background-color: #FCFF9E; */
+  background-image: url('/images/dot-yellow.png');
+  background-size: 10px 10px;
+}
+
+.service-interruption {
+  /* background-color: #FFB6B6; */
+  background-image: url('/images/dot-red.png');
+  background-size: 10px 10px;
+}
+
+.bad_alert
+{
+  font-size: 1.2em;
+  line-height: 150%;
+}
+
+.offscreen {
+  position:absolute;
+  left:-999px;
+  width:1px;
+  height:1px;
+  top:auto;
+}
+
+-->
+</style>
+
+
+<div class="sidebarBox">
+<h2><span class="bad_alert">Alerts</span></h2>
+<ul id="alertlist" class="feedlist">
+
+<li>Alerts Feed Unavailable&nbsp;&nbsp;<a href="https://it.arizona.edu/alerts">View&nbsp;Alerts<span class="offscreen">about Alerts Feed Unavailable></span></a>&gt;</li>
+</ul>
+</div>
+<div style="clear: both;"></div>

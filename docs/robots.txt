@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /maintenance*
+Disallow: /pserr*
+Disallow: /pslogout*
+Disallow: /status*
+Disallow: /train*

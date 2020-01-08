@@ -1,0 +1,107 @@
+[
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-student", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-student-mobile", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-employee", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-analytics", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-financials", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-research", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": "http://uits.arizona.edu/alertitem?id=1405", 
+        "syskey": "uaccess", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-forums", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-instructor", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-administrative-staff", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-budget", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-learning", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-guest", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-planning", 
+        "title": "System Up"
+    }, 
+    {
+        "status": "optimal", 
+        "image": "dot-green.png", 
+        "link": null, 
+        "syskey": "uaccess-space", 
+        "title": "System Up"
+    }
+]
